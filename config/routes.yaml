@@ -1,0 +1,6 @@
+# Home:
+#   path: /ok
+#   controller: App\Controller\HomeController::index
+# Article:
+#   path: /articles
+#   controller: App\Controller\ArticleController::index
